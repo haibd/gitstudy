@@ -10,6 +10,9 @@ namespace GitStudy
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Ha`");
+
+            Console.ReadKey();
         }
     }
 }
