@@ -11,7 +11,7 @@ namespace GitStudy
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Ha`");
-
+            Console.WriteLine("Happy new day ! ^^");
             Console.ReadKey();
         }
     }
